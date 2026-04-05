@@ -51,7 +51,7 @@ const CONFIG = {
       ],
     },
   },
-  seo: { title: 'Portfolio of Ariful Alam', description: '', imageURL: '' },
+  seo: { title: 'Portfolio of Zening Alvin Chen', description: '', imageURL: '' },
   social: {
     linkedin: 'www.linkedin.com/in/zeningchen',
     x: '',
