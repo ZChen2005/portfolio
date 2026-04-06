@@ -37,7 +37,7 @@ const CONFIG = {
           description:
             'Similation on how autonomous cars interact with each other on the road.',
           imageUrl:
-            'https://drive.google.com/uc?export=download&id=17w2H0VfCG96ZwqyVa5cMLwF8etMNDLJq',
+            '.images/carla.png',
           link: 'https://carla.org',
         },
       ],
