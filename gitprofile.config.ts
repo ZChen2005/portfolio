@@ -29,15 +29,15 @@ const CONFIG = {
       },
     },
     external: {
-      header: 'External Projects',
+      header: 'My Projects',
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Project Name',
+          title: 'CARLA project',
           description:
             'Similation on how autonomous cars interact with each other on the road.',
           imageUrl:
-            'https://drive.google.com/file/d/17w2H0VfCG96ZwqyVa5cMLwF8etMNDLJq/view?usp=sharing',
+            'https://drive.google.com/uc?export=download&id=17w2H0VfCG96ZwqyVa5cMLwF8etMNDLJq',
           link: 'https://carla.org',
         },
       ],
